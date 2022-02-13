@@ -33,7 +33,7 @@ const Navbar = (props) => {
           <NavLink to='/Home'>
             Home
           </NavLink>
-          <Link to='/ProductsPage'>
+          {/* <Link to='/ProductsPage'>
             Products Page
           </Link>
           <NavLink to='/ProductPage'>
@@ -41,13 +41,13 @@ const Navbar = (props) => {
           </NavLink>
           <NavLink to='/sign-up'>
             Sign Up
-          </NavLink>
+          </NavLink> */}
           {/* Second Nav */}
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
-        <NavBtn>
+        {/* <NavBtn>
           <NavBtnLink to='/signin'>Sign In</NavBtnLink>
-        </NavBtn>
+        </NavBtn> */}
       </NavBarStyled>
     </>
   );

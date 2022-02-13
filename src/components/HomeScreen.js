@@ -60,7 +60,7 @@ left:0px;
 `;
 
 const TileDetailsButton = styled(TileButton)`
-top:12px;
+top:16px;
 right:10px;
 float:right;
 `
@@ -284,12 +284,19 @@ const Homescreen = () => {
           </Lines>
           {/* FIRST MAIN ROW */}
           <FirstRow className="row">
-            <FirstCol className="col-12 col-xl-6">
+            <FirstCol className="info-card col-12 col-xl-6">
               <ShimmerTextTile1 className="Tile">
               <ParticlesStyle params={data} />
 
-                <TileHeader>
-                <H3>Overview</H3>
+              <TileHeader >
+                  <div className="row">
+                    <div className="col-12 col-md-6">
+                      <H3>Overview</H3>
+                    </div>
+                    <div className="col-12 col-md-6">
+                     
+                    </div>
+                  </div>
                 </TileHeader>
                 <div className="card-body">
                   <div id="redeem-code-form">
@@ -304,16 +311,17 @@ const Homescreen = () => {
                 </div>
               </ShimmerTextTile1>
             </FirstCol>
-            <SecondCol className="col-12 col-xl-6">
+
+            <SecondCol className=" col-12 col-xl-6">
               <ShimmerTextTile2>
               <ParticlesStyle params={data} />
 
                 <TileHeader >
                   <div className="row">
-                    <div className="col-12 col-md-6">
+                    <div className="col-6 col-md-6 col-sm-6 col-xs-6">
                       <H3>Knowledge</H3>
                     </div>
-                    <div className="col-12 col-md-6">
+                    <div className="col-6 col-md-6 col-sm-6 col-xs-6">
                       <TileDetailsButton href="/knowledge" className="">
                         Details 
                       </TileDetailsButton>
@@ -400,10 +408,10 @@ const Homescreen = () => {
                 
                 <TileHeader className="card-title">
                   <div className="row">
-                    <div className="col-12 col-md-6">
+                    <div className="col-6 col-md-6">
                       <H3>Experience</H3>
                     </div>
-                    <div className="col-12 col-md-6">
+                    <div className="col-6 col-md-6">
                       <TileDetailsButton href="/experience" className="">
                         Details
                       </TileDetailsButton>

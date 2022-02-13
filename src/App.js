@@ -23,7 +23,7 @@ const SiteContainer = styled.div`
 
 
 function App() {
-  let Site = "Demo Site";
+  let Site = "Resume";
 
 
 
