@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactResume/static/css/main.762a574a.chunk.css",
+    "main.js": "/ReactResume/static/js/main.58d86212.chunk.js",
+    "main.js.map": "/ReactResume/static/js/main.58d86212.chunk.js.map",
+    "runtime-main.js": "/ReactResume/static/js/runtime-main.b94f04f0.js",
+    "runtime-main.js.map": "/ReactResume/static/js/runtime-main.b94f04f0.js.map",
+    "static/css/2.150d169a.chunk.css": "/ReactResume/static/css/2.150d169a.chunk.css",
+    "static/js/2.69fb5c1e.chunk.js": "/ReactResume/static/js/2.69fb5c1e.chunk.js",
+    "static/js/2.69fb5c1e.chunk.js.map": "/ReactResume/static/js/2.69fb5c1e.chunk.js.map",
+    "static/js/3.1d053e9f.chunk.js": "/ReactResume/static/js/3.1d053e9f.chunk.js",
+    "static/js/3.1d053e9f.chunk.js.map": "/ReactResume/static/js/3.1d053e9f.chunk.js.map",
+    "index.html": "/ReactResume/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ReactResume/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.762a574a.chunk.css.map": "/ReactResume/static/css/main.762a574a.chunk.css.map",
+    "static/js/2.69fb5c1e.chunk.js.LICENSE.txt": "/ReactResume/static/js/2.69fb5c1e.chunk.js.LICENSE.txt",
+    "static/media/app-old.css": "/ReactResume/static/media/open-iconic.bff1e040.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b94f04f0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.69fb5c1e.chunk.js",
+    "static/css/main.762a574a.chunk.css",
+    "static/js/main.58d86212.chunk.js"
+  ]
+}
