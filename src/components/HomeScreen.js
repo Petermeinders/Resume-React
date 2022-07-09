@@ -323,7 +323,7 @@ const Homescreen = () => {
                     </div>
                     <div className="col-6 col-md-6 col-sm-6 col-xs-6">
                       <TileDetailsButton href="/knowledge" className="">
-                        Details 
+                        Future Todo 
                       </TileDetailsButton>
                     </div>
                   </div>
@@ -413,7 +413,7 @@ const Homescreen = () => {
                     </div>
                     <div className="col-6 col-md-6">
                       <TileDetailsButton href="/experience" className="">
-                        Details
+                      Future Todo 
                       </TileDetailsButton>
                     </div>
                   </div>
@@ -431,10 +431,10 @@ const Homescreen = () => {
                     </div>
                     <div className="col-md-8 col-sm-12 text-align-center">
                       <div>
-                        <h5 className="green-color">20+ Languages/Libraries/Markups</h5>
-                        <h5 className="green-color">20+ Client's System Administrator</h5>
+                        <h5 className="orange-color">20+ Languages/Libraries/Markups</h5>
+                        <h5 className="orange-color">20+ Client's System Administrator</h5>
                         {/* <p>C# (Winforms, Webforms, MVC and WPF), Java, VBA, SQL, Angular, Typescript, LINQ, ASP.NET, Entity Framework, XAML, HTML, CSS, JSON, XML</p> */}
-                        <h5 className="green-color">20+ Wordpress sites created and supported</h5>
+                        <h5 className="orange-color">20+ Wordpress sites created and supported</h5>
                         {/* <p>Visual Studio 2013/2016/2019, cPanel, Vmware/Virtualbox/Parallels, Filezilla, Sublime Text, VS Code, Putty, Unity, SSRS 2005, ServiceNow, Kentico</p> */}
                         <div />
                       </div>

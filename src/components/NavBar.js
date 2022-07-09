@@ -28,7 +28,7 @@ const Navbar = (props) => {
         <NavLink to='/'>
           <SiteName>{props.name}</SiteName>
         </NavLink>
-        <Bars />
+        {/* <Bars /> */}
         <NavMenu>
           <NavLink to='/Home'>
             Home

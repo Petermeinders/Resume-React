@@ -94,14 +94,14 @@ import { keyframes } from 'styled-components'
 
 
 const WelcomeHeader = styled.h1`
-    color: #e6aa0066;
+    color: #e6aa0066 !important;
     text-align: center;
     text-shadow: -1px -1px 2px #0c0a05;
 
 `
 
 export function Welcome(props) {
-    return <WelcomeHeader title="Peter Meinders">Peter Meinders</WelcomeHeader>;
+    return <a href="https://petermeinders.com"><WelcomeHeader title="Peter Meinders">Peter Meinders</WelcomeHeader> </a>;
 
   }
 
