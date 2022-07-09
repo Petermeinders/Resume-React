@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Resume-React/static/css/main.fd4dde8a.chunk.css",
-    "main.js": "/Resume-React/static/js/main.58d86212.chunk.js",
-    "main.js.map": "/Resume-React/static/js/main.58d86212.chunk.js.map",
+    "main.css": "/Resume-React/static/css/main.5129d1fe.chunk.css",
+    "main.js": "/Resume-React/static/js/main.c2d41b0c.chunk.js",
+    "main.js.map": "/Resume-React/static/js/main.c2d41b0c.chunk.js.map",
     "runtime-main.js": "/Resume-React/static/js/runtime-main.533ff801.js",
     "runtime-main.js.map": "/Resume-React/static/js/runtime-main.533ff801.js.map",
     "static/css/2.150d169a.chunk.css": "/Resume-React/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1d053e9f.chunk.js.map": "/Resume-React/static/js/3.1d053e9f.chunk.js.map",
     "index.html": "/Resume-React/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Resume-React/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.fd4dde8a.chunk.css.map": "/Resume-React/static/css/main.fd4dde8a.chunk.css.map",
+    "static/css/main.5129d1fe.chunk.css.map": "/Resume-React/static/css/main.5129d1fe.chunk.css.map",
     "static/js/2.0bf05bba.chunk.js.LICENSE.txt": "/Resume-React/static/js/2.0bf05bba.chunk.js.LICENSE.txt",
     "static/media/app-old.css": "/Resume-React/static/media/open-iconic.bff1e040.otf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.533ff801.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.0bf05bba.chunk.js",
-    "static/css/main.fd4dde8a.chunk.css",
-    "static/js/main.58d86212.chunk.js"
+    "static/css/main.5129d1fe.chunk.css",
+    "static/js/main.c2d41b0c.chunk.js"
   ]
 }
