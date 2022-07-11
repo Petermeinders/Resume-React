@@ -1,25 +1,14 @@
 import React, { useState } from "react";
 import "./App.css";
 import * as Welcome from "./components/Welcome";
-import * as StickyFooter from "./components/StickyFooter";
-import * as SearchBar from "./components/SearchBar";
-import ProductsPage from "./pages/ProductsPage";
 import Homescreen from "components/HomeScreen";
 import { Container, Row, Col } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import styled from 'styled-components';
 import CustomRow, { CustomCol } from "components/Fundamentals/CustomRow";
 
-
-
-
-
-
 const Home = () => {
   let Site = "SiteName";
-
-
-
 
   return (
     <div>
@@ -38,8 +27,6 @@ const Home = () => {
           </Row>
         </div>
       </Container>
-
-      {/* <StickyFooter.AlertDismissible /> */}
     </div>
   );
 };

@@ -301,7 +301,7 @@ const Homescreen = () => {
                 <div className="card-body">
                   <div id="redeem-code-form">
                     <p>
-                      Full-Stack Developer and IT Specialist with a passion for problem solving, learning, and team building. Self-motivated goal-oriented with the desire to contribute both to a team
+                      Senior Full-Stack Developer and IT Specialist with a passion for problem solving, learning, and team building. Self-motivated goal-oriented with the desire to contribute both to a team
                       and the development process
                     </p>
                     <div>

@@ -1,11 +1,7 @@
 import React from "react";
 import "./App.css";
-import Game from "./Game";
 import { BrowserRouter as Router } from "react-router-dom";
 import NavBar from "./components/NavBar";
-import * as Welcome from "./components/Welcome";
-import * as StickyFooter from "./components/StickyFooter";
-import * as SearchBar from "./components/SearchBar";
 import ProductPage from "./pages/ProductPage";
 import ProductsPage from "./pages/ProductsPage";
 import {Switch, Route, Link} from 'react-router-dom';
@@ -14,18 +10,12 @@ import styled from "styled-components";
 import './css/custom.css';
 import { Background, FloatingCubes } from "components/Fundamentals/Animation";
 
-
-
 const SiteContainer = styled.div`
 
 `
 
-
-
 function App() {
   let Site = "Resume";
-
-
 
   return (
     <SiteContainer>
